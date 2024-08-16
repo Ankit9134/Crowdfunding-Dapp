@@ -24,4 +24,4 @@ If you want to share a link to your project or provide a demo, feel free to do s
 
 
 
-Thanks to : https://github.com/adrianhajdin, https://thirdweb.com/
+Thanks to : https://thirdweb.com/
