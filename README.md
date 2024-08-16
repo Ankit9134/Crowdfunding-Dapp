@@ -1,16 +1,20 @@
-Hey Welcome to my Dapp Repo,
+Your crowd-funding Dapp sounds like an impressive project! Integrating blockchain technology with a functional front end is a great achievement. Here’s a breakdown of what you've mentioned:
 
-checkout my Crowd Funding Dapp created using Hardhat ( for Backend ), ReactJS ( for FrontEnd)
+### Project Overview:
+- **Backend:** Developed using **Hardhat** for smart contract deployment and testing.
+- **Frontend:** Created using **ReactJS** for an interactive user interface.
+- **Blockchain Network:** Deployed on the **Goerli Test Net**.
+- **Functionality:**
+  - Users can connect their **Goerli Testnet Wallet**.
+  - Users can create new campaigns or donate to existing ones.
+  - All data is stored on the blockchain, ensuring immutability.
 
-this is fully functional website build on Blockchain ( Goerli Test Net ),
+### Key Features:
+- **Security:** Once deployed, no one can edit the data, thanks to blockchain's immutability.
+- **Transparency:** All transactions and data are stored on the blockchain, providing complete transparency.
+- **Decentralization:** The use of a decentralized network ensures that the platform is free from central authority.
 
-you can Connect Your Goerli Testnet Wallet and Create Campaign or Donate to the Exiting Campaigns, 
-
-all your data will be Save in Blockchain, and no one can Edit once its deployed.
-
-Website Link: https://remarkable-bunny-01d439.netlify.app
-
-Screenshot :
+If you want to share a link to your project or provide a demo, feel free to do so!
 ![Screenshot (2)](https://user-images.githubusercontent.com/121276285/210399273-103dc27a-d402-456d-9c30-3d322c31b3bd.png)
 ![Screenshot (5)](https://user-images.githubusercontent.com/121276285/210399301-23c4ce83-57e3-45e8-9f8d-4c3b78487047.png)
 ![Screenshot (6)](https://user-images.githubusercontent.com/121276285/210399326-31db4067-7124-4248-8b76-2dc1e270676c.png)
